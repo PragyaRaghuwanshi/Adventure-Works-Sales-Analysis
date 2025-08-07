@@ -1,120 +1,81 @@
-# 📊 Adventure Works Sales Analysis - Power BI Project
+# Adventure Works Sales Analysis Dashboard
 
-This Power BI project explores sales performance using Microsoft's Adventure Works dataset. It demonstrates business insights across time, products, geography, and customer segments through interactive visual dashboards.
-
----
-
-## 🛠️ Tools & Technologies
-- **Power BI**
-- **DAX (Data Analysis Expressions)**
-- **Data Modeling**
-- **Custom Visuals & Slicers**
-- ** Measures **
+This Power BI project presents an in-depth **Sales Analysis** of the  **Adventure Works** dataset. It aims to provide key insights into sales performance across products, regions, and customer segments.
 
 ---
 
-## 📌 Key Insights
-- Monthly and yearly sales trends
-- Top-selling products and categories
-- Region-wise sales performance
-- Customer profitability analysis
+## 📊 Project Overview
+
+The dashboard explores various business aspects using interactive visuals to help understand:
+
+- **Sales Trends** over time . 
+- **Top-performing Products and Categories**  
+- **Region-wise Sales Performance**  
+- **Customer Segmentation**  
+- **Sales Targets vs Actuals**  
+- **Profitability Analysis**
 
 ---
 
-## 📷 Dashboard Screenshots
+## 🔧 Tools & Techniques Used
 
-### 🔸 Sales Overview
-![Sales Overview](Screenshot%202025-08-04%2010.34.59.png)  
-> Summary of total revenue, sales KPIs, and trend over time.
+- Power BI Desktop  
+- Data Modeling  
+- DAX (Data Analysis Expressions)  
+- Power Query Editor  
+- Data Mining  
+- Dashboard Creation  
+- Data Visualization  
+- Data Filtration  
+- Measures  
+- Calculated Columns  
+- Microsoft Excel  
 
-### 🔸 Top Products & Categories
-![Top Products](Screenshot%202025-08-04%2010.35.17.png)  
-> Highlights the highest-selling product categories and individual products.
-
-### 🔸 Region-wise Performance
-![Region-wise](Screenshot%202025-08-04%2010.36.01.png)  
-> Geographic performance breakdown by location and region.
-
-### 🔸 Customer Segmentation
-![Customer Segmentation](Screenshot%202025-08-04%2010.46.02.png)  
-> Customers grouped based on revenue contribution or activity.
-
-### 🔸 Profit Analysis
-![Profit](Screenshot%202025-08-04%2010.45.55.png)  
-> Overview of profit margins, cost of goods, and net income.
-
-### 🔸 Yearly/Monthly Sales Trends
-![Trends](Screenshot%202025-08-04%2010.46.44.png)  
-> Time-based bar/line charts comparing sales by year/month.
 
 ---
 
-## 📁 Project Files
-- `Adventure Work Sales Analysis Dashboard.pbix` – Full Power BI report
-- `.png` files – Screenshots from different report pages
+## 🧩 Key Features
+
+- Dynamic **filters and slicers** to explore data by region, product category, and time . 
+- Clean and interactive **dashboard pages**  
+- Use of **cards, bar charts, pie charts, line charts, and maps**  
+- Insightful **KPIs** such as Total Sales, Profit, and Quantity Sold.
 
 ---
 
-## 🙋‍♀️ About Me
-**Pragya Raghuwanshi**  
-Aspiring Data Analyst | Skilled in Power BI, SQL, Tableau  
-[📎 LinkedIn](# 📊 Adventure Works Sales Analysis - Power BI Project
+## 📁 Report Pages
 
-This Power BI project explores sales performance using Microsoft's Adventure Works dataset. It demonstrates business insights across time, products, geography, and customer segments through interactive visual dashboards.
-
----
-
-## 🛠️ Tools & Technologies
-- **Power BI**
-- **DAX (Data Analysis Expressions)**
-- **Data Modeling**
-- **Custom Visuals & Slicers**
+1. **Home / Executive Summary**  
+2. **Product Analysis**  
+3. **Region-wise Sales**  
+4. **Customer Analysis**  
+5. **Profit & Quantity Overview**  
+6. **Time-based Sales Trends**  
+7. **Slicers Page** (interactive filters)
 
 ---
 
-## 📌 Key Insights
-- Monthly and yearly sales trends
-- Top-selling products and categories
-- Region-wise sales performance
-- Customer profitability analysis
+## 🎯 Business Insights
+
+- Identifies best and worst-performing product categories.
+- Tracks regional performance to guide market strategy  
+- Compares sales vs targets to evaluate achievements  
+- Understands customer preferences and buying patterns
 
 ---
 
-## 📷 Dashboard Screenshots
+## 📝 Conclusion
 
-### 🔸 Sales Overview
-![Sales Overview](Screenshot%202025-08-04%2010.34.59.png)  
-> Summary of total revenue, sales KPIs, and trend over time.
-
-### 🔸 Top Products & Categories
-![Top Products](Screenshot%202025-08-04%2010.35.17.png)  
-> Highlights the highest-selling product categories and individual products.
-
-### 🔸 Region-wise Performance
-![Region-wise](Screenshot%202025-08-04%2010.36.01.png)  
-> Geographic performance breakdown by location and region.
-
-### 🔸 Customer Segmentation
-![Customer Segmentation](Screenshot%202025-08-04%2010.46.02.png)  
-> Customers grouped based on revenue contribution or activity.
-
-### 🔸 Profit Analysis
-![Profit](Screenshot%202025-08-04%2010.45.55.png)  
-> Overview of profit margins, cost of goods, and net income.
-
-### 🔸 Yearly/Monthly Sales Trends
-![Trends](Screenshot%202025-08-04%2010.46.44.png)  
-> Time-based bar/line charts comparing sales by year/month.
-
----
-
-## 📁 Project Files
-- `Adventure Work Sales Analysis Dashboard.pbix` – Full Power BI report
-- `.png` files – Screenshots from different report pages
+This dashboard can help business stakeholders quickly analyze and make informed decisions based on the sales data. It showcases the power of **Power BI** in turning raw data into actionable insights.
 
 ---
 
 ## 🙋‍♀️ About Me
-**Pragya Raghuwanshi**  
+**Pragya Raghuwanshi**
+**Email ID** [raghuwanshipragya99@gmail.com]
+**LinkedIn ID** [www.linkedin.com/in/pragya-raghuwanshi-b96061246]
+
+
+
 Aspiring Data Analyst | Skilled in Power BI, SQL, Tableau  
 [📎 LinkedIn](www.linkedin.com/in/pragya-raghuwanshi-b96061246)
