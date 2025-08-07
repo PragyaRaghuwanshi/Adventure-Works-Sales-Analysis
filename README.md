@@ -72,10 +72,6 @@ This dashboard can help business stakeholders quickly analyze and make informed 
 
 ## 🙋‍♀️ About Me
 **Pragya Raghuwanshi**
+Aspiring Data Analyst | Skilled in Power BI, SQL, Tableau  
 **Email ID** [raghuwanshipragya99@gmail.com]
 **LinkedIn ID** [www.linkedin.com/in/pragya-raghuwanshi-b96061246]
-
-
-
-Aspiring Data Analyst | Skilled in Power BI, SQL, Tableau  
-[📎 LinkedIn](www.linkedin.com/in/pragya-raghuwanshi-b96061246)
